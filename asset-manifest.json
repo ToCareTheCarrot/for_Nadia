@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/for_Nadia/static/css/main.27c4e106.chunk.css",
+    "main.js": "/for_Nadia/static/js/main.da97efd1.chunk.js",
+    "main.js.map": "/for_Nadia/static/js/main.da97efd1.chunk.js.map",
+    "runtime-main.js": "/for_Nadia/static/js/runtime-main.895a848f.js",
+    "runtime-main.js.map": "/for_Nadia/static/js/runtime-main.895a848f.js.map",
+    "static/js/2.67b63cc5.chunk.js": "/for_Nadia/static/js/2.67b63cc5.chunk.js",
+    "static/js/2.67b63cc5.chunk.js.map": "/for_Nadia/static/js/2.67b63cc5.chunk.js.map",
+    "index.html": "/for_Nadia/index.html",
+    "static/css/main.27c4e106.chunk.css.map": "/for_Nadia/static/css/main.27c4e106.chunk.css.map",
+    "static/js/2.67b63cc5.chunk.js.LICENSE.txt": "/for_Nadia/static/js/2.67b63cc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.895a848f.js",
+    "static/js/2.67b63cc5.chunk.js",
+    "static/css/main.27c4e106.chunk.css",
+    "static/js/main.da97efd1.chunk.js"
+  ]
+}
