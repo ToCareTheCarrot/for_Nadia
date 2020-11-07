@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    width: 100%;
+    border: 1px solid orange;
+    justify-content: center;
+    align-items: center;
+}
+.container button,
+.container button:active,
+.container button:focus {
+    outline: none;
+}
+.container button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40vmin;
+    height: 40vmin;
+    border-radius: 50%;
+    font-size: 5vmin;
+}
+
+.container a{
+    text-decoration: none;
+    border: none;
+}
